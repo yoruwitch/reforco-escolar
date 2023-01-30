@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(
+        180deg,
+        #c9ddd0 0%,
+        #dec4ca 53.65%,
+        #e5b191 100%
+    ) fixed !important;
+}
+
